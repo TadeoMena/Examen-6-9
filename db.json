@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Testing Things",
+      "email": "d48325758@alumnos.itr.edu.ar",
+      "id": 1
+    },
+    {
+      "name": "Tammu Mattu",
+      "email": "d48325758@alumnos.itr.edu.ar",
+      "id": 2
+    }
+  ]
+}
